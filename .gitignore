@@ -1,0 +1,20 @@
+
+# Visual Studio temporary files
+.vs/
+*.user
+
+# Build directories
+Debug/
+Release/
+x64/
+x86/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.pch
+*.tlog
+*.log
